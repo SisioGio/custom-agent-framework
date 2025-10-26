@@ -1,0 +1,45 @@
+# Accounting Manual – Accounts Receivable (AR)
+
+## 1. Objective
+Establish uniform practices for invoicing customers, collecting payments, and recording receivables to ensure proper cash flow management.
+
+## 2. Scope
+Applies to all sales transactions and customer billing across all business units.
+
+## 3. Key Responsibilities
+- **AR Specialist:** Invoice creation, cash application
+- **AR Manager:** Credit control and dispute management
+- **Controller:** Review and aging analysis
+
+## 4. Process Overview
+1. **Customer Setup**
+   - Verify creditworthiness
+   - Create customer master data in ERP
+
+2. **Invoicing**
+   - Generate invoices from sales orders
+   - Send via EDI/email to customers
+   - Track due dates
+
+3. **Collections**
+   - Monitor overdue balances
+   - Issue reminders and dunning letters
+   - Coordinate with Sales for dispute resolution
+
+4. **Cash Application**
+   - Record incoming payments
+   - Match to invoices
+   - Handle unidentified payments
+
+5. **Reporting**
+   - AR aging report
+   - Days Sales Outstanding (DSO) tracking
+
+## 5. Controls
+- Credit limit checks
+- Review of overdue accounts
+- Segregation of duties between invoicing and collection
+
+## 6. References
+- Company Policy FIN-AR-002
+- Credit & Collection SOP

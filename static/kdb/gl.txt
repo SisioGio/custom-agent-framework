@@ -1,0 +1,40 @@
+# Accounting Manual – General Ledger (GL)
+
+## 1. Objective
+Ensure accurate and timely recording of all financial transactions in accordance with IFRS/GAAP and company policies.
+
+## 2. Scope
+Covers all general ledger entries, journal approvals, accruals, and closing activities.
+
+## 3. Key Responsibilities
+- **GL Accountant:** Journal entry posting and reconciliations
+- **GL Supervisor:** Period close coordination
+- **Financial Controller:** Final review and financial reporting
+
+## 4. Process Overview
+1. **Journal Entries**
+   - Prepare manual journals with supporting documentation
+   - Ensure proper account coding and approvals
+
+2. **Reconciliations**
+   - Perform monthly reconciliations of all balance sheet accounts
+   - Investigate variances
+
+3. **Month-End Close**
+   - Accrual postings
+   - Depreciation runs
+   - Intercompany recharges
+
+4. **Financial Reporting**
+   - Prepare trial balance
+   - Review profit & loss and balance sheet statements
+   - Submit reports to HQ
+
+## 5. Controls
+- Journal entry approval matrix
+- Automated reconciliation review
+- Monthly close checklist
+
+## 6. References
+- Company Policy FIN-GL-003
+- IFRS Accounting Manual
