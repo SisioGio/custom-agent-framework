@@ -1,4 +1,4 @@
-from static.tools import TOOLS
+from tools.tools_descriptions import TOOLS
 import re
 from tools.logic import *
 
